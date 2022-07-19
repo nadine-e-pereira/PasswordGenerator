@@ -1,5 +1,7 @@
 import random
 
+#https://replit.com/@Joao-FelipeFe10/Password-Generator?v=1
+
 print("*** Bem vindo ao PassWord Generator! ****\nPara gerar a sua senha, por gentileza informe abaixo:")
 
 length_letters = int(input("Qual a quantidade de letras irá usar?\n"))
